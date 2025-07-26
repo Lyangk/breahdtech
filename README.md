@@ -1,6 +1,6 @@
 # breahdtech
 
-Hi there!
+Hi there! 🙈
 
 I'm Angie, an aspiring developer based in Canada
 
